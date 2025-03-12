@@ -33,3 +33,4 @@ npm run dev
 Após iniciar o servidor, acesse o link exibido no terminal (geralmente `http://localhost:5173/`).
 
 Agora seu projeto está rodando com a API ativa em `127.0.0.1:8000`. 🚀
+
