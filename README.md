@@ -14,7 +14,7 @@ Antes de iniciar o projeto, garanta que a API está ativa no endereço `127.0.0.
 ## 2️⃣ Acesse o diretório do projeto
 Abra o terminal e navegue até a pasta do projeto:
 ```sh
-cd caminho/do/projeto
+cd corelab-challenge-web-app-php
 ```
 
 ## 3️⃣ Instale as dependências
